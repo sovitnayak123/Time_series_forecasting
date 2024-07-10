@@ -25,17 +25,16 @@ The project is organized into the following sections:
 
 
 4. **Time Series Forecasting Methods**:
+   - We'll be using XGbooost regressor
    - Implementing ARIMA (AutoRegressive Integrated Moving Average).
-   - SARIMA (Seasonal ARIMA).
-   - Prophet model by Facebook.
 
-5. **Model Evaluation and Results**:
+6. **Model Evaluation and Results**:
    - Performance metrics for different models.
    - Visualization of forecasted vs actual values.
 
    ![MW_by_Hour](MW_by_Hour.png)
 
-6. **Conclusion**:
+7. **Conclusion**:
       ![Future_Predictions](Future_Predictions.png)
 
 ## Getting Started
