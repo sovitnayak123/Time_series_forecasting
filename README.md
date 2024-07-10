@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib statsmodels prophet
 
 1. Clone the repository:
    \`\`\`bash
-   git clone [https://github.com/sovitnayak123/time-series-forecasting-energy-consumption.git](https://github.com/sovitnayak123/Time_series_forecasting)](https://github.com/sovitnayak123/Time_series_forecasting)
+   git clone (https://github.com/sovitnayak123/Time_series_forecasting)](https://github.com/sovitnayak123/Time_series_forecasting)
    cd time-series-forecasting-energy-consumption
    \`\`\`
 
